@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to LollipopFt's website.
 
 You can use the [editor on GitHub](https://github.com/LollipopFt/lollipopft.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,8 +11,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
+# Yay!
+## Lol
 ### Header 3
 
 - Bulleted
